@@ -1,2 +1,5 @@
 # my-github-experiment
-這是我用來練習 GitHub 功能的專屬實驗基地！
+## 🚀 學習目標
+- 學習 GitHub 專案管理
+- 掌握 GitHub Actions 自動化
+- 部署第一個 GitHub Pages
